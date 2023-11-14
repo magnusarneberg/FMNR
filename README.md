@@ -1,2 +1,2 @@
 # FMNR
-Managed Regeneration
+Farmer-Managed Natural Regeneration
